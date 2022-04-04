@@ -1,1 +1,0 @@
-# modelowanie_statystyczne
